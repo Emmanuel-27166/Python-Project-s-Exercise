@@ -28,3 +28,10 @@ myList.remove('sorie')
 print(myList)
 myList.pop()
 print(myList)
+
+
+
+
+
+# f = open('function.py', "r")
+# print(f.read())
